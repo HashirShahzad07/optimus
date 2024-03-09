@@ -39,12 +39,13 @@ html,
 body {
     font-size: 16px;
     color: rgba(255, 255, 255, 0.8);
-    font-family: "Inter", "Bakbak One";
+    font-family: "Inter", "new";
     vertical-align: baseline;
     line-height: 1.6;
     font-weight: 500;
     overflow-x: hidden;
-    background-color: #db9634;
+    background: rgb(0,255,163);
+background: linear-gradient(83deg, rgba(0,255,163,1) 0%, rgba(2,236,221,1) 33%, rgba(220,31,255,1) 79%);
 }
 
 img {
@@ -65,7 +66,7 @@ h5,
 h6 {
     margin: 0px;
     line-height: 1.35;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .border_t0 {
@@ -183,7 +184,7 @@ body .dblock {
     background: rgba(255, 255, 255, 0.2);
     border: none;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -204,7 +205,7 @@ body .dblock {
     border: none;
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -224,7 +225,7 @@ body .dblock {
     border: none;
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -244,7 +245,7 @@ body .dblock {
     border: 2px solid rgba(255, 255, 255, 0.2);
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -353,7 +354,7 @@ body .dblock {
 }
 
 .bithu_title_section h2 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -378,7 +379,7 @@ body .dblock {
 }
 
 .bithu_title_section h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
@@ -418,7 +419,7 @@ body .modal-backdrop {
     text-transform: uppercase;
     margin-right: 15px;
     position: relative;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-size: 18px;
 }
 
@@ -434,7 +435,7 @@ body .modal-backdrop {
 }
 
 .bithu-breadcrumbs-section .breadcrumbs-area .sub-inner span {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     color: #bd4024;
     font-size: 18px;
     margin-right: 10px;
@@ -747,7 +748,7 @@ body .modal-backdrop {
 }
 
 .bithu_menu_list ul li ol li a {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -765,7 +766,7 @@ body .modal-backdrop {
 }
 
 .bithu_menu_list ul li a {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -807,7 +808,7 @@ body .modal-backdrop {
 }
 
 .bithu_menu_right_sect button.join_btn {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -835,7 +836,7 @@ body .modal-backdrop {
 }
 
 .bithu_menu_right_sect button.connect_btn {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -952,7 +953,7 @@ body .modal-backdrop {
 }
 
 .bithu_mobile_menu_list ul li a {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -995,7 +996,7 @@ body .modal-backdrop {
     border: 2px solid rgba(255, 255, 255, 0.2);
     box-sizing: border-box;
     margin-top: 20px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1019,7 +1020,7 @@ body .modal-backdrop {
 }
 
 .mobile_menu_btns button.connect_btn {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1087,7 +1088,7 @@ body .modal-backdrop {
 }
 
 .bithu_v2_baner_content h2 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
@@ -1105,7 +1106,7 @@ body .modal-backdrop {
 }
 
 .bithu_v2_baner_content h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1126,7 +1127,7 @@ body .modal-backdrop {
 }
 
 .bithu_v2_baner_content .bithu_v2_timer h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1144,7 +1145,7 @@ body .modal-backdrop {
 }
 
 .bithu_v2_baner_content .bithu_v2_timer ul li {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1182,7 +1183,7 @@ body .modal-backdrop {
 }
 
 .bithu_v2_baner_content .bithu_v2_timer ul strong {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1205,7 +1206,7 @@ body .modal-backdrop {
 }
 
 .bithu_v1_baner_left h2 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
@@ -1216,7 +1217,7 @@ body .modal-backdrop {
 }
 
 .bithu_v1_baner_left h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1241,7 +1242,7 @@ body .modal-backdrop {
     margin-left: 30px;
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1255,7 +1256,7 @@ body .modal-backdrop {
 }
 
 .bithu_v1_baner_left ul li {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -1295,7 +1296,7 @@ body .modal-backdrop {
 }
 
 .banner-conent3 .banner-title {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
@@ -1309,7 +1310,7 @@ body .modal-backdrop {
 }
 
 .banner-conent3 h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1349,14 +1350,14 @@ body .modal-backdrop {
 .banner-conent3 .banner-bottom-text {
     color: rgba(255, 255, 255, 0.8);
     font-size: 18px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     max-width: 240px;
     margin-top: 52px;
     line-height: 1.5;
 }
 
 .banner-conent3 .bithu_v3_timer h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1371,7 +1372,7 @@ body .modal-backdrop {
 }
 
 .banner-conent3 .bithu_v3_timer ul li {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1385,7 +1386,7 @@ body .modal-backdrop {
 }
 
 .banner-conent3 .bithu_v3_timer ul strong {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1514,7 +1515,7 @@ body .modal-backdrop {
 }
 
 .how_to_mint_content ul li h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 100px;
@@ -1524,7 +1525,7 @@ body .modal-backdrop {
 }
 
 .how_to_mint_content ul li p {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -1631,7 +1632,7 @@ body .modal-backdrop {
     background: transparent;
     padding: 0px 19px;
     outline: none;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1646,7 +1647,7 @@ body .modal-backdrop {
     outline: none;
     background: transparent;
     padding: 0px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1663,7 +1664,7 @@ body .modal-backdrop {
     border: none;
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1679,7 +1680,7 @@ body .modal-backdrop {
     border: none;
     margin-bottom: 12px;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1694,7 +1695,7 @@ body .modal-backdrop {
     background: #bd4024;
     border: none;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1713,7 +1714,7 @@ body .modal-backdrop {
     background: #bd4024;
     border: none;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1749,7 +1750,7 @@ body .modal-backdrop {
 }
 
 .bithu_total_counter_sect ul li h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -1759,7 +1760,7 @@ body .modal-backdrop {
 }
 
 .bithu_total_counter_sect ul li h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -1957,7 +1958,7 @@ body .modal-backdrop {
 }
 
 .about_us_text_card h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -2075,7 +2076,7 @@ body .modal-backdrop {
 }
 
 .v2_about_us_text ul li h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2086,7 +2087,7 @@ body .modal-backdrop {
 }
 
 .v2_about_us_text ul li h5 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
@@ -2182,7 +2183,7 @@ button.slick-next.slick-arrow {
 }
 
 .v1_roadmap_contents_text h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2196,7 +2197,7 @@ button.slick-next.slick-arrow {
 }
 
 .v1_roadmap_contents_text.disable h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2206,7 +2207,7 @@ button.slick-next.slick-arrow {
 }
 
 .v1_roadmap_contents_text h4 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -2227,7 +2228,7 @@ button.slick-next.slick-arrow {
 
 .bithu_roadmap_section .bithu_roadmap_item .bithu_roadmap_content .bithu_roadmap_counter .roadmap_parcentage {
     font-size: 48px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     background: #1D242B;
     color: #343A3E;
     width: 220px;
@@ -2323,7 +2324,7 @@ button.slick-next.slick-arrow {
 }
 
 .v2_roadmap_card h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -2447,7 +2448,7 @@ button.slick-next.slick-arrow {
 }
 
 .bithu_team_card h3 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -2591,7 +2592,7 @@ button.slick-next.slick-arrow {
     align-items: center;
     justify-content: space-between;
     padding: 24px 29px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -2646,12 +2647,12 @@ button.slick-next.slick-arrow {
 
 .bithu_faq_questions .accordion-panel p {
     padding: 0px 48px 24px 29px;
-    font-family: Inter;
+    font-family: new;
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 28px;
-    color: rgba(255, 255, 255, 0.7);
+    color: rgb(158, 35, 192);
     margin-bottom: 0px;
     max-width: 100%;
 }
@@ -2669,7 +2670,7 @@ button.slick-next.slick-arrow {
 
 .bithu-faq-section .Bithu_faq_text ul li {
     color: #fff;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .bithu-faq-section .Bithu_faq_text ul li span {
@@ -2731,7 +2732,7 @@ button.slick-next.slick-arrow {
 .blog-list-content .blog-item1 .sub-inner span {
     position: relative;
     padding-right: 14px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 
 }
 
@@ -2741,7 +2742,7 @@ button.slick-next.slick-arrow {
     font-size: 14px;
     line-height: 30px;
     color: rgba(255, 255, 255, 0.7);
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .blog-list-content .blog-item1 .blog-btn a {
@@ -2774,7 +2775,7 @@ button.slick-next.slick-arrow {
     font-size: 16px;
     line-height: 30px;
     color: #fff;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .blog-list-content .blog-item1 .blog-btn a:hover {
@@ -2860,7 +2861,7 @@ button.slick-next.slick-arrow {
     padding-right: 40px;
     font-size: 16px;
     text-transform: uppercase;
-    font-family: "Bakbak One";
+    font-family: "new";
 }
 
 .blog-detail-conent1 h1 {
@@ -3008,7 +3009,7 @@ button.slick-next.slick-arrow {
 
 .about-menu .breadcrumbs-form .about-breadcrumbs a {
     text-transform: uppercase;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .about-menu .breadcrumbs-form .about-breadcrumbs i {
@@ -3077,7 +3078,7 @@ button.slick-next.slick-arrow {
     color: #bd4024;
     margin-bottom: 10px;
     display: block;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .blog-detail-conent1 .details-item1 .about-blog .next-item {
@@ -3098,7 +3099,7 @@ button.slick-next.slick-arrow {
     color: #bd4024;
     margin-bottom: 10px;
     display: block;
-    font-family: 'Bakbak One';
+    font-family: 'new';
 }
 
 .blog-detail-conent1 .details-item1 .about-blog .next-item .next-text h5 a,
@@ -3632,7 +3633,7 @@ div.latest-item .hover-shape-bg {
     border: none;
     text-transform: uppercase;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -3646,7 +3647,7 @@ div.latest-item .hover-shape-bg {
     width: 200px;
     background: #5865F2;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -4328,7 +4329,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .modal_header h2 {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -4455,7 +4456,7 @@ div.latest-item .hover-shape-bg {
     background: transparent;
     padding: 0px 19px;
     outline: none;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -4470,7 +4471,7 @@ div.latest-item .hover-shape-bg {
     outline: none;
     background: transparent;
     padding: 0px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -4487,7 +4488,7 @@ div.latest-item .hover-shape-bg {
     border: none;
     margin-bottom: 12px;
     box-sizing: border-box;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -4693,7 +4694,7 @@ index_v4
 }
 
 .bithu_v4_baner_sect {
-    background: url(../images/bg/v4_baner_bg.png);
+    background: url(../../10.png);
     min-height: 900px;
     width: 100%;
     background-size: cover;
@@ -4827,7 +4828,7 @@ index_v4
 
 .bithu_v4owl_carousel_sect {
     background: #FFE600;
-    height: 60px;
+    height: 160px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -4850,7 +4851,7 @@ index_v4
 .bithu_v4owl_carousel_content ul li {
     margin-left: 20px;
     min-width: 152px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-weight: 400;
     font-size: 18px;
     line-height: 18px;
@@ -4950,7 +4951,7 @@ index_v4
 
 
 .bithu_v4_footer_sect {
-    background: url(../images/bg/v4_footer_bg.png);
+    background: url(../../1.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -4965,7 +4966,7 @@ index_v4
 }
 
 .v4_about_us_sect {
-    background: url(../images/bg/v4_about_us_bg.png);
+    background: url(../../1.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -5273,7 +5274,7 @@ Mint Sect
 }
 
 .buthu_mint1_body_right_timer ul li {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -5498,7 +5499,7 @@ Comming Soon
     background: rgba(255, 255, 255, 0.15);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     position: relative;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 60px;
@@ -5509,7 +5510,7 @@ Comming Soon
 }
 
 .coming_soon_timer .timer ul li span {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -5568,7 +5569,7 @@ Comming Soon
     height: 60px;
     width: 150px;
 
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -5707,7 +5708,7 @@ mint-menu
 }
 
 .mint_right_menu_list ul li a {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -5791,7 +5792,7 @@ Index 5
     width: 16.67%;
     transition: background-color 0.6s ease;
     min-height: 60px;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -5892,7 +5893,7 @@ V5 - Home
 }
 
 .v5-home-content-left {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-weight: 400;
 }
 
@@ -6336,7 +6337,7 @@ FAQ Page
 
 .faq-tab-btns li {
     width: 100%;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-size: 24px;
     line-height: 60px;
     color: rgba(255, 255, 255, 0.8);
@@ -6377,7 +6378,7 @@ Contuct Us
 }
 
 .contuctus-form-sect form label {
-    font-family: 'Bakbak One';
+    font-family: 'new';
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.8);
     line-height: 45px;
@@ -6666,7 +6667,7 @@ Collections
     border: none;
     outline: none;
     background: transparent;
-    font-family: 'Bakbak One';
+    font-family: 'new';
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
